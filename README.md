@@ -11,7 +11,7 @@ This is a android app that can link you to a whatsapp/telegram chat with a speci
 ## Screenshots
 
 #### English
-![English](./assets/ss_en.png)
+<img src="./assets/ss_en.png" alt="English" height="320">
 
 #### Hebrew
 ![Hebrew](./assets/ss_he.png)
