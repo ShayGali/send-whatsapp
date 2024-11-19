@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">send-whatsapp</string>
+    <string name="enter_phone_number">enter phone number</string>
+    <string name="enter">Enter</string>
+    <string name="clear">Clear</string>
+    <string name="paste">Paste</string>
+    <string name="change_language">Change Language</string>
+    <string name="you_cant_pate_this_data">You can not pate this data</string>
+    <string name="please_fill_phone_number">please fill phone number</string>
+    <string name="whatsapp" translatable="false">Whatsapp</string>
+    <string name="telegram" translatable="false">Telegram</string>
+</resources>

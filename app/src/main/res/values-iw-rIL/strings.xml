@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">send-whatsapp</string>
+    <string name="enter_phone_number">הכנס מספר פלאפון</string>
+    <string name="enter">אישור</string>
+    <string name="clear">נקה</string>
+    <string name="paste">הדבק</string>
+    <string name="change_language">שנה שפה</string>
+    <string name="you_cant_pate_this_data">אתה לא יכול להדביק את המידע הזה</string>
+    <string name="please_fill_phone_number">מלא כאן מספר פלאפון</string>
+</resources>
