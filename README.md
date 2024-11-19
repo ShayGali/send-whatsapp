@@ -17,7 +17,7 @@ This is a android app that can link you to a whatsapp/telegram chat with a speci
 ![Hebrew](./assets/ss_he.png)
 
 #### Landscape
-![Landscape](./assets/ss_landscape.png)
+![Landscape](./assets/ss_land.png)
 
 
 #### apk
